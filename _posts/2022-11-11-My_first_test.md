@@ -1,1 +1,2 @@
 Hello, blog!
+Hi, there!
